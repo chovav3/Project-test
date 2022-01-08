@@ -1,0 +1,36 @@
+﻿table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    min-width: 180px;
+    max-width: 180px;
+}
+
+tr {
+    border-bottom: 2px solid #ab8eaa
+}
+
+tbody:nth-child(even) {
+    background-color: #dddddd;
+}
+
+thead {
+    background-color: #ab8eaa;
+}
+
+.center {
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 100%;
+}
+
+.height {
+    height: 98vh;
+}
+
