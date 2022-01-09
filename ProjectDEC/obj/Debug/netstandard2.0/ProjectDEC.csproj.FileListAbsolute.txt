@@ -1,0 +1,9 @@
+C:\Users\chova\source\repos\Project\ProjectDEC\bin\Debug\netstandard2.0\ProjectDEC.deps.json
+C:\Users\chova\source\repos\Project\ProjectDEC\bin\Debug\netstandard2.0\ProjectDEC.dll
+C:\Users\chova\source\repos\Project\ProjectDEC\bin\Debug\netstandard2.0\ProjectDEC.pdb
+C:\Users\chova\source\repos\Project\ProjectDEC\obj\Debug\netstandard2.0\ProjectDEC.AssemblyInfoInputs.cache
+C:\Users\chova\source\repos\Project\ProjectDEC\obj\Debug\netstandard2.0\ProjectDEC.AssemblyInfo.cs
+C:\Users\chova\source\repos\Project\ProjectDEC\obj\Debug\netstandard2.0\ProjectDEC.csproj.CoreCompileInputs.cache
+C:\Users\chova\source\repos\Project\ProjectDEC\obj\Debug\netstandard2.0\ProjectDEC.dll
+C:\Users\chova\source\repos\Project\ProjectDEC\obj\Debug\netstandard2.0\ProjectDEC.pdb
+C:\Users\chova\source\repos\Project\ProjectDEC\obj\Debug\netstandard2.0\ProjectDEC.csprojAssemblyReference.cache

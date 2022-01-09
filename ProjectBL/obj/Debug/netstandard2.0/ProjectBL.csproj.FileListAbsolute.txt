@@ -1,0 +1,14 @@
+C:\Users\chova\source\repos\Project\ProjectBL\bin\Debug\netstandard2.0\ProjectBL.deps.json
+C:\Users\chova\source\repos\Project\ProjectBL\bin\Debug\netstandard2.0\ProjectBL.dll
+C:\Users\chova\source\repos\Project\ProjectBL\bin\Debug\netstandard2.0\ProjectBL.pdb
+C:\Users\chova\source\repos\Project\ProjectBL\bin\Debug\netstandard2.0\ProjectDEC.dll
+C:\Users\chova\source\repos\Project\ProjectBL\bin\Debug\netstandard2.0\ProjectDL.dll
+C:\Users\chova\source\repos\Project\ProjectBL\bin\Debug\netstandard2.0\ProjectDEC.pdb
+C:\Users\chova\source\repos\Project\ProjectBL\bin\Debug\netstandard2.0\ProjectDL.pdb
+C:\Users\chova\source\repos\Project\ProjectBL\obj\Debug\netstandard2.0\ProjectBL.csprojAssemblyReference.cache
+C:\Users\chova\source\repos\Project\ProjectBL\obj\Debug\netstandard2.0\ProjectBL.AssemblyInfoInputs.cache
+C:\Users\chova\source\repos\Project\ProjectBL\obj\Debug\netstandard2.0\ProjectBL.AssemblyInfo.cs
+C:\Users\chova\source\repos\Project\ProjectBL\obj\Debug\netstandard2.0\ProjectBL.csproj.CoreCompileInputs.cache
+C:\Users\chova\source\repos\Project\ProjectBL\obj\Debug\netstandard2.0\ProjectBL.csproj.CopyComplete
+C:\Users\chova\source\repos\Project\ProjectBL\obj\Debug\netstandard2.0\ProjectBL.dll
+C:\Users\chova\source\repos\Project\ProjectBL\obj\Debug\netstandard2.0\ProjectBL.pdb

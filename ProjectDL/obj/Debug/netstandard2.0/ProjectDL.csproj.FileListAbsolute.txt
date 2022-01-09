@@ -1,0 +1,8 @@
+C:\Users\chova\source\repos\Project\ProjectDL\bin\Debug\netstandard2.0\ProjectDL.deps.json
+C:\Users\chova\source\repos\Project\ProjectDL\bin\Debug\netstandard2.0\ProjectDL.dll
+C:\Users\chova\source\repos\Project\ProjectDL\bin\Debug\netstandard2.0\ProjectDL.pdb
+C:\Users\chova\source\repos\Project\ProjectDL\obj\Debug\netstandard2.0\ProjectDL.AssemblyInfoInputs.cache
+C:\Users\chova\source\repos\Project\ProjectDL\obj\Debug\netstandard2.0\ProjectDL.AssemblyInfo.cs
+C:\Users\chova\source\repos\Project\ProjectDL\obj\Debug\netstandard2.0\ProjectDL.csproj.CoreCompileInputs.cache
+C:\Users\chova\source\repos\Project\ProjectDL\obj\Debug\netstandard2.0\ProjectDL.dll
+C:\Users\chova\source\repos\Project\ProjectDL\obj\Debug\netstandard2.0\ProjectDL.pdb
