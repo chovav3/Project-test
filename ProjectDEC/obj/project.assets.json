@@ -998,11 +998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chova\\Desktop\\Project\\ProjectDEC\\ProjectDEC.csproj",
+      "projectUniqueName": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDEC\\ProjectDEC.csproj",
       "projectName": "ProjectDEC",
-      "projectPath": "C:\\Users\\chova\\Desktop\\Project\\ProjectDEC\\ProjectDEC.csproj",
+      "projectPath": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDEC\\ProjectDEC.csproj",
       "packagesPath": "C:\\Users\\chova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chova\\Desktop\\Project\\ProjectDEC\\obj\\",
+      "outputPath": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDEC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chova\\AppData\\Roaming\\NuGet\\NuGet.Config",

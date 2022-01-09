@@ -1663,11 +1663,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chova\\Desktop\\Project\\ProjectDL\\ProjectDL.csproj",
+      "projectUniqueName": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDL\\ProjectDL.csproj",
       "projectName": "ProjectDL",
-      "projectPath": "C:\\Users\\chova\\Desktop\\Project\\ProjectDL\\ProjectDL.csproj",
+      "projectPath": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDL\\ProjectDL.csproj",
       "packagesPath": "C:\\Users\\chova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chova\\Desktop\\Project\\ProjectDL\\obj\\",
+      "outputPath": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chova\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bacUXo2DTI1MQivQ8ytWfM7eqrJDhzCXrOJfYW8BCzN7Xa71wzwTrPfBoBUfrq1ibmWg6/kw/UJ4TZ4HJnuTOQ==",
+  "dgSpecHash": "DeeRyao7cQ+qL7jGchpGg3+5fS6ShpHuxVuntxcgcWmpajucABZxteJLMyMdu0h7ac6OpP5raHtXg7ZEOgXPJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chova\\Desktop\\Project\\ProjectBL\\ProjectBL.csproj",
+  "projectFilePath": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectBL\\ProjectBL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chova\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\chova\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.1.0\\microsoft.aspnetcore.hosting.abstractions.2.1.0.nupkg.sha512",

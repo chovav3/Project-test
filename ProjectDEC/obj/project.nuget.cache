@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gprzmmkGAIo9Pr/sQbjLwempVES97hpB7sBRdcn5D/FU/ucxCRR2Y+6+OCc+IMSuY54BVlXFtQkcBl2nrrL09A==",
+  "dgSpecHash": "kdKIriqjF6ezaAGF5iMXzZegD1CAhdzb6D/10ZE0vnpCcHu7BZ8GY5VCUSX6hMgFaIC4M6hqzsyHUUT8DsBo4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chova\\Desktop\\Project\\ProjectDEC\\ProjectDEC.csproj",
+  "projectFilePath": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDEC\\ProjectDEC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chova\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.1.0\\microsoft.aspnetcore.hosting.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\chova\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.1.0\\microsoft.aspnetcore.hosting.server.abstractions.2.1.0.nupkg.sha512",

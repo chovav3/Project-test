@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chova\\Desktop\\Project\\ProjectBL\\ProjectBL.csproj": {}
+    "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectBL\\ProjectBL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chova\\Desktop\\Project\\ProjectBL\\ProjectBL.csproj": {
+    "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectBL\\ProjectBL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chova\\Desktop\\Project\\ProjectBL\\ProjectBL.csproj",
+        "projectUniqueName": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectBL\\ProjectBL.csproj",
         "projectName": "ProjectBL",
-        "projectPath": "C:\\Users\\chova\\Desktop\\Project\\ProjectBL\\ProjectBL.csproj",
+        "projectPath": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectBL\\ProjectBL.csproj",
         "packagesPath": "C:\\Users\\chova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chova\\Desktop\\Project\\ProjectBL\\obj\\",
+        "outputPath": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectBL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chova\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\chova\\Desktop\\Project\\ProjectDEC\\ProjectDEC.csproj": {
-                "projectPath": "C:\\Users\\chova\\Desktop\\Project\\ProjectDEC\\ProjectDEC.csproj"
+              "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDEC\\ProjectDEC.csproj": {
+                "projectPath": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDEC\\ProjectDEC.csproj"
               },
-              "C:\\Users\\chova\\Desktop\\Project\\ProjectDL\\ProjectDL.csproj": {
-                "projectPath": "C:\\Users\\chova\\Desktop\\Project\\ProjectDL\\ProjectDL.csproj"
+              "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDL\\ProjectDL.csproj": {
+                "projectPath": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDL\\ProjectDL.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\chova\\Desktop\\Project\\ProjectDEC\\ProjectDEC.csproj": {
+    "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDEC\\ProjectDEC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chova\\Desktop\\Project\\ProjectDEC\\ProjectDEC.csproj",
+        "projectUniqueName": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDEC\\ProjectDEC.csproj",
         "projectName": "ProjectDEC",
-        "projectPath": "C:\\Users\\chova\\Desktop\\Project\\ProjectDEC\\ProjectDEC.csproj",
+        "projectPath": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDEC\\ProjectDEC.csproj",
         "packagesPath": "C:\\Users\\chova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chova\\Desktop\\Project\\ProjectDEC\\obj\\",
+        "outputPath": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDEC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chova\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -149,14 +149,14 @@
         }
       }
     },
-    "C:\\Users\\chova\\Desktop\\Project\\ProjectDL\\ProjectDL.csproj": {
+    "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDL\\ProjectDL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chova\\Desktop\\Project\\ProjectDL\\ProjectDL.csproj",
+        "projectUniqueName": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDL\\ProjectDL.csproj",
         "projectName": "ProjectDL",
-        "projectPath": "C:\\Users\\chova\\Desktop\\Project\\ProjectDL\\ProjectDL.csproj",
+        "projectPath": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDL\\ProjectDL.csproj",
         "packagesPath": "C:\\Users\\chova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chova\\Desktop\\Project\\ProjectDL\\obj\\",
+        "outputPath": "C:\\Users\\chova\\source\\repos\\Project-Test\\ProjectDL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chova\\AppData\\Roaming\\NuGet\\NuGet.Config",
